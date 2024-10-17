@@ -151,7 +151,6 @@ const deficiencies = await prompt([
   },
 ]);
 
-// Summary of deficiencies
 console.log(chalk.greenBright("Deficiency Summary:"));
 console.log(chalk.cyanBright(`Exterior Body Deficiencies: ${deficiencies.exteriorDeficiencies}`));
 console.log(chalk.cyanBright(`Interior Part Deficiencies: ${deficiencies.interiorDeficiencies}`));
