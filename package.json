@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^12.0.0"
+  },
+  "type": "module",
+  "name": "pmcs-project",
+  "version": "1.0.0",
+  "description": "Welcome to the PMCS Checklist App! This command-line application helps you perform Preventive Maintenance Checks and Services (PMCS) on your vehicle. It will guide you through checking various parts of your car, allowing you to document unserviceable items and track fluid levels.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
